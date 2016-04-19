@@ -1,0 +1,43 @@
+Before you can run any RH Systems DAQ program 
+on your computer, you must also install the 
+correct version of LabVIEW Runtime Engine and
+the VISA driver. If they are not installed, or
+are the wrong version, the DAQ program will not
+execute properly.
+
+Note:  The LabView Runtime Engine and the VISA
+driver need only be installed once.
+
+
+A. Installation of the Runtime Engine
+-------------------------------------  
+Note: If You have already installed any other RH Systems
+DAQ Software on this computer with Runtime Engine 6.0.2
+You can skip this and go directly to section B.
+
+1. Change to directory "LabVIEW Runtime Engine 6.0.2" 
+   and start "lvrteinstall.exe"
+
+2. Follow the instructions on the screen to finish.
+
+3. If the installation was successful change to 
+   directory "NI-VISA 2.6"
+
+4. Start "visa260runtime.exe" and follow instructions 
+   on the screen to finish the installation.
+
+5. Continue with section B.
+
+
+B. Installation of the RH Systems DAQ Software
+----------------------------------------------
+
+1. Open the folder "373DAQ_2.0.2"
+2. Open the folder "Installer" and start "setup.exe"
+3. Follow the instructions to finish...
+  
+
+
+
+For additional assistance, you may call us at
+505-856-5666 or email bob@rhsystems.net

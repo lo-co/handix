@@ -1,0 +1,177 @@
+Date:  1/7/2014 10:26:51 AM
+User:  mrichardson
+File:  C:\Users\mrichardson\Documents\cpasConfig.nce
+File version:  5.0
+MAX version:  5.5.1
+
+Importing...
+========
+NI-Serial (for LabVIEW Real-Time) 4.0:
+  Advanced Settings
+  Advanced Settings
+  Advanced Settings
+
+NI-VISA 5.4:
+  VISA Alias (CLAP)
+  VISA Alias (TEC)
+  VISA Alias (MFC)
+  Port Settings (COM1)
+  Port Settings (COM3)
+  Port Settings (COM4)
+
+NI-DAQmx 9.7:
+  AC Enable
+  AC Enable/400 Hz
+  AC Enable/60 Hz
+  PXI-6733: "AOSeries"
+  Aux_V_Mon
+  CRD Diode
+  CRD Diode/PulseOutput
+  CRD Gate
+  CRD Gate/PulseOutput
+  CRD Hum T En
+  CRD Hum T En/High RH
+  CRD Hum T En/Med RH
+  CRD Hum T SP
+  CRD Hum T SP/High  RH
+  CRD Hum T SP/Med RH
+  CRD Las AI
+  CRD Las AI/Ch 1
+  CRD Las AI/Ch 2
+  CRD Las AI/Ch 3
+  CRD Las AI/Ch 4
+  CRD Las AI/Ch 5
+  CRD Las AI/Ch 6
+  CRD Las AI/Ch 7
+  CRD Las AI/Ch 8
+  CRD Las En
+  CRD Las En/Aux
+  CRD Las En/Blue
+  CRD Las En/Red
+  CRD Las En/YAG
+  CRD LFIO
+  CRD LFIO/High RH
+  CRD LFIO/Med RH
+  CRD LFIO/P1
+  CRD LFIO/P2
+  CRD LFIO/P3
+  CRD LFIO/P4
+  CRD LFIO/RH1
+  CRD LFIO/RH2
+  CRD LFIO/RH3
+  CRD LFIO/RH4
+  CRD LFIO/T1
+  CRD LFIO/T2
+  CRD LFIO/T3
+  CRD LFIO/T4
+  CRD LFIO/Thermistor 1
+  CRD LFIO/Thermistor 2
+  CRD LFIO/Thermistor 3
+  CRD LFIO/Thermistor 4
+  CRD LFIO/Thermistor 5
+  CRD LFIO/Thermistor 6
+  CRD LFIO/Thermistor 7
+  CRD LFIO/Thermistor 8
+  CRD LFIO/Thermistor 10
+  CRD LFIO/Thermistor 11
+  CRD LFIO/Thermistor 12
+  CRD LFIO/Thermistor 13
+  CRD LFIO/Thermistor 14
+  CRD LFIO/Thermistor 15
+  CRD YAG
+  CRD YAG/YAG
+  PXI-6133: "CRD_Las_AI"
+  DC OK
+  DC OK/DigitalIn
+  DC_12V
+  DC_15V
+  DC_24V
+  Filter In
+  Filter In/Mon 1
+  Filter In/Mon 2
+  Filter Out
+  Filter Out/Ctl 1
+  Filter Out/Ctl 2
+  PXI-6225: "LFIO"
+  PXI-6229: "MSeries"
+  P
+  PAS Housekeeping
+  PAS Housekeeping/12V Mon
+  PAS Housekeeping/24V Mon
+  PAS Housekeeping/Aux Volt Monitor
+  PAS Housekeeping/Cell 1 Laser RMS
+  PAS Housekeeping/Cell 1 RH
+  PAS Housekeeping/Cell 1 Thermistor A
+  PAS Housekeeping/Cell 1 Thermistor B
+  PAS Housekeeping/Cell 1 TRH
+  PAS Housekeeping/Cell 2 Laser RMS
+  PAS Housekeeping/Cell 2 RH
+  PAS Housekeeping/Cell 2 Thermistor A
+  PAS Housekeeping/Cell 2 Thermistor B
+  PAS Housekeeping/Cell 2 TRH
+  PAS Housekeeping/Cell 3 Laser RMS
+  PAS Housekeeping/Cell 3 RH
+  PAS Housekeeping/Cell 3 Thermistor A
+  PAS Housekeeping/Cell 3 Thermistor B
+  PAS Housekeeping/Cell 3 TRH
+  PAS Housekeeping/Cell 4 Laser RMS
+  PAS Housekeeping/Cell 4 RH
+  PAS Housekeeping/Cell 4 Thermistor A
+  PAS Housekeeping/Cell 4 Thermistor B
+  PAS Housekeeping/Cell 4 TRH
+  PAS Housekeeping/Cell 5 Laser RMS
+  PAS Housekeeping/Cell 5 RH
+  PAS Housekeeping/Cell 5 Thermistor A
+  PAS Housekeeping/Cell 5 Thermistor B
+  PAS Housekeeping/Cell 5 TRH
+  PAS Housekeeping/neg 15V Mon
+  PAS Housekeeping/pos 15V Mon
+  PAS Housekeeping/Thum 1
+  PAS Housekeeping/Thum 2
+  PAS Hum T En
+  PAS Hum T En/Hum 1
+  PAS Hum T En/Hum 2
+  PAS Hum T SP
+  PAS Hum T SP/Hum 1
+  PAS Hum T SP/Hum 2
+  PAS Laser AI
+  PAS Laser AI/Cell 1 Mic
+  PAS Laser AI/Cell 1 Photodiode
+  PAS Laser AI/Cell 2 Mic
+  PAS Laser AI/Cell 2 Photodiode
+  PAS Laser AI/Cell 3 Mic
+  PAS Laser AI/Cell 3 Photodiode
+  PAS Laser AI/Cell 4  Photodiode
+  PAS Laser AI/Cell 4 Mic
+  PAS Laser AI/Cell 5 Mic
+  PAS Laser AI/Cell 5 Photodiode
+  PAS TEC En
+  PAS TEC En/Cell 1
+  PAS TEC En/Cell 2
+  PAS TEC En/Cell 3
+  PAS TEC En/Cell 4
+  PAS TEC En/Cell 5
+  PAS TEC SP
+  PAS TEC SP/Cell 1
+  PAS TEC SP/Cell 2
+  PAS TEC SP/Cell 3
+  PAS TEC SP/Cell 4
+  PAS TEC SP/Cell 5
+  PXI-6259: "PAS_Las_AI"
+  PS Switch Out
+  PS Switch Out/AC1
+  PS Switch Out/AC2
+  PS Switch Out/AC3
+  PS Switch Out/DC En High
+  PS Switch Out/DC En Low
+  PS Switch Out/O3 Enable
+  PS Switch Out/Water Pump 1
+  PS Switch Out/Water Pump 2
+  RH
+  SCB-68: "SCB-68/LFIO/1"
+  SCB-68: "SCB-68/MSeries/0"
+  Thermistor
+  TRH_60
+  TRH_110
+
+*** Import complete ***

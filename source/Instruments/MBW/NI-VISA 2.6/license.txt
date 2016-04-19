@@ -1,0 +1,533 @@
+
+    NATIONAL INSTRUMENTS SOFTWARE LICENSE AGREEMENT
+
+
+INSTALLATION NOTICE: THIS IS A CONTRACT.  BEFORE YOU COMPLETE THE
+INSTALLATION PROCESS, CAREFULLY READ THIS AGREEMENT. BY ANSWERING IN
+THE AFFIRMATIVE TO THE APPLICABLE PROMPT OR CLICKING THE APPLICABLE
+BUTTON TO COMPLETE THE INSTALLATION PROCESS, YOU CONSENT TO THE TERMS
+OF THIS AGREEMENT AND YOU AGREE TO BE BOUND BY THIS AGREEMENT. IF YOU
+DO NOT WISH TO BECOME A PARTY TO THIS AGREEMENT AND BE BOUND BY ALL OF
+ITS TERMS AND CONDITIONS, YOU MUST CANCEL THE INSTALLATION PROCESS. DO
+NOT INSTALL OR USE THE SOFTWARE, AND RETURN THE SOFTWARE WITHIN THIRTY
+(30) DAYS OF RECEIPT OF THE SOFTWARE (INCLUDING ALL ACCOMPANYING
+WRITTEN MATERIALS, ALONG WITH THEIR CONTAINERS) TO THE PLACE YOU
+OBTAINED THEM. ALL RETURNS SHALL BE SUBJECT TO NI'S THEN CURRENT
+RETURN POLICY.
+
+1. Definitions. As used in this Agreement, the following terms have the
+  following meanings:
+
+  A. "You."  Means you the individual using the SOFTWARE as well as
+     your employer if you are using the SOFTWARE within the scope of
+     your employment.
+
+  B. "NI."  Means (i) National Instruments Corporation, a company
+     organized under the laws of the State of Delaware, U.S.A., if the
+     SOFTWARE is manufactured in the U.S.A.; (ii) National Instruments
+     (Ireland) Limited, a company organized under the laws of the
+     Republic of Ireland, if the SOFTWARE is manufactured in the
+     Republic of Ireland; (iii) National Instruments Europe Kft, a
+     limited liability company organized under the laws of Hungary, if
+     the SOFTWARE is manufactured in Hungary; and (iv) National
+     Instruments Services GmbH & Co KG, a company organized under the
+     laws of Germany, if the SOFTWARE is DASYLab. If you are not sure
+     where the SOFTWARE is manufactured, please contact National
+     Instruments Corporation, 11500 N. Mopac Expressway, Austin,
+     Texas, U.S.A. 78759-3504 (Attention: Legal Department).
+
+  C. "Software."  Means the computer software programs provided with
+     this Agreement and which are being installed together with all
+     accompanying documentation, utilities, and driver interface
+     software. If the SOFTWARE is part of a NI suite product, the term
+     SOFTWARE means all of the applicable NI software programs
+     comprising the applicable suite (including all accompanying
+     documentation, utilities, and driver interface software) you have
+     acquired. SOFTWARE includes all Upgrades that may be provided by
+     NI and all Multiple Access Software. Driver interface SOFTWARE
+     means National Instruments driver interface software (e.g.,
+     NI-488, NI-488.2, NI-DAQ, NI-VXI, NI-VISA, etc.)
+
+  D. "Upgrade."  Means any supplemental or replacement code for
+     computer software you have previously licensed from NI.
+
+  E. "Authorized Applications."  Means only those applications that:
+     (i) you create with development versions of the SOFTWARE that you
+     have validly licensed and (ii) are not in themselves general
+     purpose tools that permit the development of applications to
+     acquire, display, or analyze data.
+
+2. Grant of License. In consideration of payment of the applicable fees to
+  NI, NI is willing to provide you with a limited, non-exclusive right to
+  use the SOFTWARE, but only pursuant to the terms and conditions of this
+  Agreement. The specific use rights granted you are as follows and depend
+  upon the type of license you have acquired:
+
+  A. Single Seat License. If you have acquired a single seat license,
+     you may install and use one copy of the SOFTWARE on a single
+     computer in your workplace. All of the SOFTWARE must be installed
+     and used on the same computer. You are not authorized under the
+     single seat license to install or use any of the SOFTWARE on
+     multiple computers, a network storage device, or other storage
+     device.
+
+  B. Multiple Seat License. If you have acquired a multiple seat
+     license, you may distribute the master installation disk(s)
+     containing the SOFTWARE for internal installation and use only on
+     those computers located at the site(s) identified in the Multiple
+     Seat License Program Agreement (the "MSLPA"). Your multiple seat
+     license will, however, automatically terminate upon termination
+     of the MSLPA and each use of the SOFTWARE for which you paid the
+     applicable license fees under the MSLPA will automatically
+     (without further action on NI's part) be converted to a single
+     seat license. SHOULD YOU LATER DESIRE TO OBTAIN UPGRADES FOR THE
+     SOFTWARE (WHETHER FOR INDIVIDUAL SEATS OR FOR ALL SEATS
+     PREVIOUSLY COVERED BY THE MSLPA), YOU WILL BE REQUIRED TO PAY NI
+     AN APPLICABLE ACTIVATION FEE FOR EACH SUCH SEAT.
+
+  C. Multiple Access License. If the SOFTWARE you are using is: (i)
+     NI's SDS software, (ii) NI's NI-488.2 software for GPIB-ENET or
+     GPIB-ENET/100, or (iii) NI's FieldPoint Explorer software
+     (individually or collectively, "Multiple Access Software"), you
+     may install and use the SOFTWARE (including any or all versions
+     thereof as provided by NI) on any number of computers or storage
+     devices in your workplace solely for the purpose of accessing
+     NI's serial device server hardware product in the case of NI's
+     SDS software, solely for the purpose of accessing Ethernet to
+     GPIB controllers in the case of NI's NI-488.2 software for
+     GPIB-ENET or GPIB-ENET/100, and solely for the purpose of
+     accessing FieldPoint serial or Ethernet network modules in the
+     case of NI's FieldPoint Explorer software.
+
+  D. Debug License. If you have acquired a debug license, you must
+     have licensed the applicable SOFTWARE components (as identified
+     below) under a separate single seat or multiple seat license with
+     NI and you may now under the debug license install such SOFTWARE
+     components on one (1) additional target production computer (for
+     each debug license acquired). Each of the applicable components
+     must be used on the same target production computer and solely
+     for debug purposes only. In no event may you use the components
+     for developing new programs (e.g., test sequences/modules,
+     virtual instruments, etc.). Your debug license will immediately
+     terminate should you use the components on more than one (1)
+     target machine per each debug license or in any manner other than
+     for debugging existing programs. If the SOFTWARE is TestStand,
+     then the applicable components are: (i) the TestStand runtime
+     execution engine for executing your sequences and the complete
+     TestStand sequence editor development environment; and (ii) one
+     (1) copy of LabVIEW and applicable software toolkits or modules;
+     and (iii) one (1) copy of LabWindows/ CVI and applicable software
+     toolkits or modules. If the SOFTWARE is LabVIEW, then the
+     applicable component is one (1) copy of LabVIEW and applicable
+     software toolkits or modules. If the SOFTWARE is LabWindows/CVI,
+     then the applicable component is one (1) copy of LabWindows/ CVI
+     and applicable software toolkits or modules.
+
+  E. Note. The SOFTWARE is in "use" when loaded into temporary memory
+     (i.e., RAM) or installed into permanent memory (e.g., hard disk,
+     CD-ROM, network storage device, or other storage
+     device). Floating or shared use is not permitted under this
+     Agreement (i.e., allocating a single seat license or one seat of
+     a multiple seat license to non-simultaneous use of the SOFTWARE
+     (in whole or part) on multiple machines). Signing the MSLPA is a
+     prerequisite to obtaining a multiple seat license.
+
+3. Restrictions. You may not: (i) reverse engineer, decompile, or
+  disassemble the SOFTWARE (except to the extent such foregoing
+  restriction is expressly prohibited by applicable law); (ii)
+  sub-license, lease, or rent the SOFTWARE; (iii) (other than as
+  expressly permitted under this Agreement) distribute in whole or
+  part, modify, or create derivatives of the SOFTWARE; and (iv)
+  directly or indirectly, export, re-export, download, or ship the
+  SOFTWARE in violation of the laws and regulations of the U.S.A. and
+  the laws and regulations of the applicable jurisdiction in which you
+  use or are downloading the SOFTWARE. Under no circumstance is
+  "floating" or shared use permitted under this Agreement. Nothing in
+  this Agreement, however, is intended to prevent you from creating
+  your own driver interface software for use with NI software and
+  third party hardware; provided, however, that in doing so you do not
+  modify or use (in whole or part) any of the driver interface
+  SOFTWARE.
+
+4. Transfer. If you have a single seat license or if the SOFTWARE is
+  Multiple Access Software, you may transfer the SOFTWARE to a third party
+  provided that such third party accepts the terms and conditions of this
+  Agreement and after such transfer you do not retain any copies of the
+  SOFTWARE (including all Upgrades that you may have received) nor retain
+  any of the written materials accompanying the SOFTWARE. If you have a
+  multiple seat license, the license is non-transferable and you may not
+  distribute or otherwise provide the SOFTWARE to any third party or to any
+  of your sites or facilities not expressly identified in the MSLPA.
+
+5. Upgrades. If the SOFTWARE is an Upgrade, you may only use the SOFTWARE if
+  you have (at the time you receive the Upgrade) a valid license to use the
+  pre-existing SOFTWARE. Further, the license agreement accompanying the
+  Upgrade applies to your use of the Upgrade. While you may continue to use
+  the pre-existing SOFTWARE, you may only use it on the same machine upon
+  which the Upgrade is used and the license that accompanied the
+  pre-existing SOFTWARE will continue to apply to your use of the
+  pre-existing SOFTWARE.
+
+6. Home Usage Exception. Notwithstanding anything in this Agreement to the
+  contrary, if you are a business or other entity, the primary user of the
+  single computer on which the SOFTWARE is installed and used as authorized
+  by the applicable license may also install and use the SOFTWARE on one
+  computer located in such user's home; provided the use of the SOFTWARE
+  on such home computer is limited to work performed in the scope of such
+  person's employment with you and further provided, such person promptly
+  deletes the SOFTWARE from the home computer upon the termination of his or
+  her employment with you.
+
+7. Modifications of Driver Interface Software. If the SOFTWARE is driver
+  interface SOFTWARE, you may modify the SOFTWARE solely for the purpose of
+  further configuring the SOFTWARE for use with hardware of National
+  Instruments Corporation.
+
+8. Multiple Versions (CD-ROM Media). If the SOFTWARE is distributed on a
+  CD-ROM containing multiple versions of the SOFTWARE, you may only use one
+  version of the SOFTWARE. The foregoing limitation does not apply to
+  Multiple Access Software.
+
+9. Software/Hardware Key. If the SOFTWARE requires a software key code or a
+  hardware key, you acknowledge that the SOFTWARE will not function without
+  a certain, unique software key code or hardware key. This software key
+  code or hardware key will be furnished to you by NI and you agree that
+  such software key code and hardware key is to be used solely with the
+  SOFTWARE for which it is provided.
+
+10. Copyright. The SOFTWARE is owned by NI or its suppliers and is protected
+   by applicable copyright laws and international treaty
+   provisions. Therefore, you must treat the SOFTWARE like any other
+   copyrighted material. You may, however, copy the SOFTWARE solely for
+   backup or archival purposes. All rights not expressly granted to you in
+   this Agreement are reserved to NI.
+
+11. Patent and Trademark Notice. If the SOFTWARE is NI's LabVIEW software,
+   then the SOFTWARE is covered by one or more of the following Patents: (i)
+   United States Patent No(s). 4,901,221; 4,914,568; 5,291,587; 5,301,301;
+   5,301,336; 5,475,851; 5,481,740; 5,481,741; 5,497,500; 5,504,917;
+   5,583,988; 5,610,828; 5,652,909; 5,732,277; 5,734,863; 5,737,622;
+   5,764,546; 5,784,275; 5,821,934; 5,847,953; 5,905,649; 5,920,479;
+   5,974,254; 5,990,906; 6,064,812; 6,064,816; 6,102,965; 6,138,270;
+   D384051; D387750; D384050; D384052; (ii) European Patent No(s). 0242131;
+   (iii) Japanese Patent No(s). 3,016,783; and (iv) Canadian Patent
+   No(s). 1285655. If the SOFTWARE includes the LabVIEW Signal Processing
+   Toolset, then the SOFTWARE is covered by one or more of the following
+   Patents: (i) U.S. Patent No(s). 5,353,233; 6,108,609; (ii) European
+   Patent No(s). 0632899; and (iii) Japanese Patent No(s). 2,697,957. If the
+   SOFTWARE includes the LabVIEW Datalogging and Supervisory Control Module,
+   then the SOFTWARE is covered by one or more of the following Patents:
+   U.S. Patent No(s). 5,964,892; 6,053,951. If the SOFTWARE includes LabVIEW
+   Real Time, then the SOFTWARE is covered by one or more of the following
+   Patents: U.S. Patent No(s). 6,173,438. If the SOFTWARE includes the
+   LabVIEW PID Control Toolset, then the SOFTWARE is covered by one or more
+   of the following Patents: U.S. Patent No(s). 6,081,751. If the SOFTWARE
+   includes the IVI Driver Toolset, then the SOFTWARE is covered by one or
+   more of the following Patents: U.S. Patent No(s). 5,963,726;
+   6,085,156. If the SOFTWARE includes Measurement Studio or otherwise
+   includes LabWindows/CVI or ComponentWorks, then the SOFTWARE is covered
+   by one or more of the following Patents: U.S. Patent No(s). 5,583,988;
+   5,870,088; 5,974,257. If the SOFTWARE includes NI-VISA software, then the
+   SOFTWARE is covered by one or more of the following Patents: U.S. Patent
+   No(s). 5,724,272; 5,710,727; 5,847,955; 5,640,572; 5,771,388; 5,627,988;
+   5,717,614. If the SOFTWARE includes NI-DAQ software, then the SOFTWARE is
+   covered by one or more of the following Patents: U.S. Patent
+   No(s). 5,619,702; 6,067,584; 6,096,094; 6,052,743; 6,148,438; 5,926,775;
+   5,987,530; 6,073,205; 5,781,137; 5,781,138; 6,016,112; 6,049,298;
+   6,020,838. If the SOFTWARE includes the NI-488 or NI-488.2 (NI-GPIB)
+   software, then the SOFTWARE is covered by one or more of the following
+   Patents: U.S. Patent No(s). 5,974,541; 5,964,892; 5,958,028; 5,987,530;
+   6,073,205. If the SOFTWARE includes the NI Fieldbus software, including
+   one or more of the NI-FBUS Configurator software or the NI-FBUS Monitor
+   software, then the SOFTWARE is covered by one or more of the following
+   Patents: U.S. Patent No(s). 5,854,890; 5,796,721; 5,850,523; 5,971,581;
+   6,141,596; 6,076,952; 5,978,850. If the SOFTWARE includes the NI-IMAQ
+   software, then the SOFTWARE is covered by one or more of the following
+   Patents: U.S. Patent No(s). 6,012,109; 6,161,154. If the SOFTWARE
+   includes the IMAQ Vision software, then the SOFTWARE is covered by one or
+   more of the following Patents: U.S. Patent No(s). 6,219,452; 6,222,940;
+   6,229,921. Other U.S. and International Patents may be
+   Pending. ComponentWorks, CVI, FieldPoint, IMAQ, Lookout, LabVIEW,
+   LabWindows/ CVI, Measurement Studio, NI-488.2, NI-CAN, NI-DAQ, NI-FBUS,
+   NI-VISA, NI-VXI and TestStand are the trademarks of National Instruments
+   Corporation. DIAdem and CrashBase are the trademarks of National
+   Instruments (Ireland) Limited. DASYLab is the trademark of National
+   Instruments Services GmbH & Co KG. Further, all other product and company
+   names used herein are (or may be) trademarks or trade names of their
+   respective companies.
+
+12. Application Deployment. You may distribute Authorized Applications
+   (including applicable runtime engines for the SOFTWARE and applicable
+   driver interface SOFTWARE that you may include as part of or together
+   with your Authorized Applications) provided you comply with each of the
+   requirements set forth in sub-sections (A) and (B) below:
+
+  A.  Distribution Requirements.
+     
+  (1.) You include the following copyright notice "Copyright ©
+       [year] National Instruments Corporation. All Rights Reserved" in
+       the Authorized Application's About Box and in the applicable
+       written documentation distributed with each copy of the
+       Authorized Application (you may include your own copyright
+       notice with the foregoing notice);
+
+  (2.) You do not use NI's name, logo, or trademarks to market your
+       Authorized Application without NI's express prior written
+       permission;
+
+  (3.) You agree to indemnify, hold harmless, and defend NI from and
+       against any claims or lawsuits, including attorney's fees, that
+       arise or result from the use or distribution of your
+       application, AND EVEN IF DUE IN PART TO NI'S CONCURRENT
+       NEGLIGENCE OR OTHER FAULT OR STRICT LIABILITY WITHOUT REGARD TO
+       FAULT; PROVIDED, HOWEVER, THAT YOUR CONTRACTUAL OBLIGATION OF
+       INDEMNIFICATION SHALL NOT EXTEND TO THE PERCENTAGE OF THE
+       CLAIMANT'S DAMAGES OR INJURIES OR THE SETTLEMENT AMOUNT
+       ATTRIBUTABLE TO NI'S NEGLIGENCE OR OTHER FAULT OR TO STRICT
+       LIABILITY IMPOSED UPON NI AS A MATTER OF LAW; and
+
+  (4.) You conform to the requirements described in the SDKLIC.TXT or
+       the other applicable files if you are using Microsoft SDK files
+       or other third party files.
+
+  B. Fees. Generally, you may distribute Authorized Applications
+     without paying additional fees to NI. If, however, the Authorized
+     Application was created utilizing any of the following SOFTWARE:
+     LabVIEW Remote Panels, LabVIEW Real-Time, LabVIEW Datalogging and
+     Supervisory Control Module, National Instruments SQL Toolkit,
+     National Instruments Sound and Vibration Toolset, National
+     Instruments Order Analysis Toolset, National Instruments IMAQ
+     Vision, National Instruments TestStand, National Instruments Test
+     Executive, National Instruments Lookout, DASYLab, DIAdem, or such
+     other SOFTWARE as NI may from time to time designate, then you
+     must (before distributing the Authorized Application and
+     applicable runtime engines for the SOFTWARE) either: (i) verify
+     that the recipient has a valid license of such SOFTWARE for each
+     computer on which the Authorized Application will be used or (ii)
+     obtain written distribution authorization from NI and (if
+     required by NI) pay to NI a per copy distribution/development fee
+     for each Authorized Application distributed. Further, if the
+     Authorized Application utilizes, calls, or otherwise accesses any
+     driver interface SOFTWARE, then you must (before distributing the
+     Authorized Application and applicable driver interface SOFTWARE)
+     either: (i) verify that the recipient has a valid license of such
+     driver interface SOFTWARE for each computer on which the
+     Authorized Application will be used or (ii) obtain written
+     distribution authorization from NI and (if required by NI) pay to
+     NI a per copy distribution/development fee for each Authorized
+     Application distributed. Contact NI or, if applicable, the NI
+     subsidiary serving your country for the amount of the applicable
+     per copy distribution/development fee.
+
+13. Limited Warranty. NI warrants, for your benefit alone, that for a period
+   of ninety (90) days from the date the SOFTWARE is shipped to you (i) the
+   SOFTWARE will perform substantially in accordance with the accompanying
+   written materials, and (ii) the medium on which the SOFTWARE is recorded
+   will be free from defects in materials and workmanship under normal use
+   and service. Any replacement SOFTWARE will be warranted for the remainder
+   of the original warranty period or thirty (30) days, whichever is
+   longer. Some states/jurisdictions do not allow limitations on duration of
+   an express or implied warranty, so the above or any other limitation
+   provided herein may not apply to you. In such event, such warranties are
+   limited to the minimum warranty period allowed by applicable law. You
+   must obtain a Return Material Authorization number from NI before
+   returning the SOFTWARE under warranty to NI and you agree to pay expenses
+   for shipment to and from NI. The Limited Warranty is void if failure of
+   the SOFTWARE has resulted from accident, abuse, misapplication, improper
+   calibration by you, third party products (i.e., hardware or software)
+   used by you which are not intended by National Instruments for use with
+   the SOFTWARE, utilization of an improper hardware or software key (if
+   applicable), or unauthorized maintenance of the SOFTWARE.
+
+14. Customer Remedies. NI's sole obligation (and your sole remedy) with
+   respect to the foregoing Limited Warranty shall be to, at NI's option,
+   return the fees paid or repair/replace the SOFTWARE, provided that NI
+   receives written notice of applicable defects during the warranty
+   period. You may not bring an action to enforce your remedies under the
+   foregoing Limited Warranty more than one (1) year after the accrual of
+   such cause of action.
+
+15. No Other Warranties. EXCEPT AS EXPRESSLY SET FORTH ABOVE, THE
+   SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, AND NO
+   OTHER WARRANTIES, EITHER EXPRESSED OR IMPLIED ARE MADE WITH RESPECT
+   TO THE SOFTWARE, INCLUDING BUT NOT LIMITED TO ANY IMPLIED
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   TITLE OR NON-INFRINGEMENT, OR ANY OTHER WARRANTIES THAT MAY ARISE
+   FROM USAGE OF TRADE OR COURSE OF DEALING. NI DOES NOT WARRANT,
+   GUARANTEE, OR MAKE ANY REPRESENTATIONS REGARDING THE USE OF OR THE
+   RESULTS OF THE USE OF THE SOFTWARE IN TERMS OF CORRECTNESS,
+   ACCURACY, RELIABILITY, OR OTHERWISE AND DOES NOT WARRANT THAT THE
+   OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE. NI
+   EXPRESSLY DISCLAIMS ANY WARRANTIES NOT STATED HEREIN.
+
+16. Intellectual Property Liability. NI shall, at its own expense, defend
+   any claim resulting from your use of the SOFTWARE as authorized by your
+   license to the extent that such claim alleges that the SOFTWARE infringes
+   any patent, copyright, or trademark protected by the laws of the U.S.A.,
+   Canada, Mexico, Japan, Australia, Switzerland, Norway or the European
+   Union, provided that such claim does not arise from your use of the
+   SOFTWARE in combination with equipment or devices not made by NI, or from
+   any modification of the SOFTWARE not made by NI, and further provided
+   that you notify NI in writing immediately upon your obtaining notice of
+   such impending claim and your full cooperation with NI in preparing a
+   defense. If you provide to NI the authority, assistance, and information
+   NI needs to defend or settle such claim, NI shall pay any final award of
+   damages or settlement with respect to such claim and any expense you
+   incur at NI's written request, but NI shall not be liable for a
+   settlement made without its prior written consent. If the SOFTWARE is
+   held to be infringing of the rights stated above and the use thereof is
+   enjoined or if NI believes the SOFTWARE may be held to infringe a third
+   party's intellectual property rights, NI shall, at its option, either
+   (i) procure for you the right to use the SOFTWARE, (ii) replace or modify
+   the SOFTWARE with other software which does not infringe, or (iii)
+   receive your return of the infringing SOFTWARE and refund to you the
+   license fee payment(s) made by you to NI. The foregoing states your sole
+   remedy for, and NI's entire liability and responsibility for,
+   infringement of any patent, trademark, copyright, or other intellectual
+   property right relating to the SOFTWARE. THIS LIMITED INDEMNITY IS IN
+   LIEU OF ANY OTHER STATUTORY OR IMPLIED WARRANTY AGAINST INFRINGEMENT.
+
+17. Limitation On Liability. The entire liability of NI and its licensors,
+   distributors, and suppliers (including its and their directors, officers,
+   employees, and agents) is set forth above. To the maximum extent
+   permitted by applicable law, in no event shall NI and its licensors,
+   distributors, and suppliers (including its and their directors, officers,
+   employees, and agents) be liable for any damages, including, but not
+   limited to, any special, direct, indirect, incidental, exemplary, or
+   consequential damages, expenses, lost profits, lost savings, business
+   interruption, lost business information, or any other damages arising out
+   of the use or inability to use the SOFTWARE, any technical support
+   services relating to the SOFTWARE, or related hardware even if NI or its
+   licensors, distributors, and suppliers has been advised of the
+   possibility of such damages. You acknowledge that the applicable fees and
+   prices reflect this allocation of risk. Because some states/jurisdictions
+   do not allow the exclusion or limitation of liability for consequential
+   or incidental damages, the above limitation may not apply. If the
+   foregoing limitation of liability is not enforceable because the
+   SOFTWARE, the services, or the hardware is determined by a court of
+   competent jurisdiction in a final, non-appealable judgment to be
+   defective and to have directly caused bodily injury, death, or property
+   damage, in no event shall NI's liability for property damage exceed
+   the greater of $50,000 or the license fee paid for the SOFTWARE.
+
+18. Warning. (1) NI PRODUCTS ARE NOT DESIGNED WITH COMPONENTS AND
+   TESTING FOR A LEVEL OF RELIABILITY SUITABLE FOR USE IN OR IN
+   CONNECTION WITH SURGICAL IMPLANTS OR AS CRITICAL COMPONENTS IN ANY
+   LIFE SUPPORT SYSTEMS WHOSE FAILURE TO PERFORM CAN REASONABLY BE
+   EXPECTED TO CAUSE SIGNIFICANT INJURY TO A HUMAN. (2) IN ANY
+   APPLICATION, INCLUDING THE ABOVE, RELIABILITY OF OPERATION OF THE
+   SOFTWARE PRODUCTS CAN BE IMPAIRED BY ADVERSE FACTORS, INCLUDING BUT
+   NOT LIMITED TO FLUCTUATIONS IN ELECTRICAL POWER SUPPLY, COMPUTER
+   HARDWARE MALFUNCTIONS, COMPUTER OPERATING SYSTEM SOFTWARE FITNESS,
+   FITNESS OF COMPILERS AND DEVELOPMENT SOFTWARE USED TO DEVELOP AN
+   APPLICATION, INSTALLATION ERRORS, SOFTWARE AND HARDWARE
+   COMPATIBILITY PROBLEMS, MALFUNCTIONS OR FAILURES OF ELECTRONIC
+   MONITORING OR CONTROL DEVICES, TRANSIENT FAILURES OF ELECTRONIC
+   SYSTEMS (HARDWARE AND/OR SOFTWARE), UNANTICIPATED USES OR MISUSES,
+   OR ERRORS ON THE PART OF THE USER OR APPLICATIONS DESIGNER (ADVERSE
+   FACTORS SUCH AS THESE ARE HEREAFTER COLLECTIVELY TERMED "SYSTEM
+   FAILURES"). ANY APPLICATION WHERE A SYSTEM FAILURE WOULD CREATE A
+   RISK OF HARM TO PROPERTY OR PERSONS (INCLUDING THE RISK OF BODILY
+   INJURY AND DEATH) SHOULD NOT BE RELIANT SOLELY UPON ONE FORM OF
+   ELECTRONIC SYSTEM DUE TO THE RISK OF SYSTEM FAILURE. TO AVOID
+   DAMAGE, INJURY, OR DEATH, THE USER OR APPLICATION DESIGNER MUST
+   TAKE REASONABLY PRUDENT STEPS TO PROTECT AGAINST SYSTEM FAILURES,
+   INCLUDING BUT NOT LIMITED TO BACK-UP OR SHUT DOWN
+   MECHANISMS. BECAUSE EACH END-USER SYSTEM IS CUSTOMIZED AND DIFFERS
+   FROM NI'S TESTING PLATFORMS AND BECAUSE A USER OR APPLICATION
+   DESIGNER MAY USE NI PRODUCTS IN COMBINATION WITH OTHER PRODUCTS IN
+   A MANNER NOT EVALUATED OR CONTEMPLATED BY NI, THE USER OR
+   APPLICATION DESIGNER IS ULTIMATELY RESPONSIBLE FOR VERIFYING AND
+   VALIDATING THE SUITABILITY OF NI PRODUCTS WHENEVER NI PRODUCTS ARE
+   INCORPORATED IN A SYSTEM OR APPLICATION, INCLUDING, WITHOUT
+   LIMITATION, THE APPROPRIATE DESIGN, PROCESS AND SAFETY LEVEL OF
+   SUCH SYSTEM OR APPLICATION.
+
+19. U.S. Government Restricted Rights. If you are an agency, department, or
+   other entity of the United States Government ("Government"), the
+   use, duplication, reproduction, release, modification, disclosure or
+   transfer of the SOFTWARE, or any related documentation of any kind,
+   including technical data or manuals, is restricted in accordance with
+   Federal Acquisition Regulation 12.212 for civilian agencies and Defense
+   Federal Acquisition Regulation Supplement 227.7202 for military
+   agencies. The SOFTWARE is commercial computer software and the related
+   documentation is commercial computer software documentation. The use of
+   the SOFTWARE and related documentation is further restricted in
+   accordance with the terms of this Agreement, or any modification
+   hereto. The Contractor/Manufacturer is National Instruments Corporation,
+   11500 North Mopac Expressway, Austin, Texas, U.S.A., 78759-3504.
+
+20. Compliance. You agree to make all applicable records available for
+   review by NI during your normal business hours so as to permit NI (upon
+   reasonable notice to you) to verify your compliance with the terms and
+   conditions of this Agreement. Further, if you are a business or other
+   entity, you agree that upon the request of NI or NI's authorized
+   representative, you will promptly document and certify in writing to NI
+   that your and your employees' use of the SOFTWARE complies with the
+   terms and conditions of this Agreement.
+
+21. Termination. This Agreement shall automatically terminate upon failure
+   by you to comply with its terms, in which event you must destroy all
+   copies of the SOFTWARE.
+	
+22. General.
+
+  A. If the SOFTWARE is manufactured in the U.S.A., (i) this Agreement
+     is governed by the laws of the State of Texas, U.S.A., exclusive
+     of any provisions of the United Nations Convention on the
+     International Sale of Goods, and without regard to principles of
+     conflicts of law and (ii) the non-exclusive venue for all actions
+     under this Agreement shall be in the courts located in Travis
+     County, Texas, U.S.A. and the parties agree to submit to the
+     jurisdiction of such courts.
+
+  B. If the SOFTWARE is manufactured in the Republic of Ireland, (i)
+     this Agreement is governed by the laws of the Republic of
+     Ireland, exclusive of any provisions of the United Nations
+     Convention on the International Sale of Goods, and without regard
+     to principles of conflicts of law and (ii) the non-exclusive
+     venue for all actions under this Agreement shall be in the courts
+     located in Dublin, the Republic of Ireland and the parties agree
+     to submit to the jurisdiction of such courts.
+
+  C. If the SOFTWARE is manufactured in Hungary, (i) this Agreement is
+     governed by the laws of Hungary, exclusive of any provisions of
+     the United Nations Convention on the International Sale of Goods,
+     and without regard to principles of conflicts of law and (ii) the
+     non-exclusive venue for all actions under this Agreement shall be
+     in the courts located in Hungary and the parties agree to submit
+     to the jurisdiction of such courts.
+
+  D. If the SOFTWARE is manufactured in Germany, (i) this Agreement is
+     governed by the laws of Germany, exclusive of any provisions of
+     the United Nations Convention on the International Sale of Goods,
+     and without regard to principles of conflicts of law and (ii) the
+     non-exclusive venue for all actions under this Agreement shall be
+     in the courts located in Munich, Germany and the parties agree to
+     submit to the jurisdiction of such courts.
+
+  E. This Agreement (and if applicable the MSLPA) constitutes the
+     complete agreement between you and NI regarding the SOFTWARE and
+     it supersedes any oral or written proposals, prior agreements,
+     purchase orders or any other communication between you and NI
+     relating to the subject matter of this Agreement.
+
+  F. If any action is brought by either party to this Agreement
+     against the other regarding the subject matter hereof, the
+     prevailing party shall be entitled to recover, in addition to any
+     relief granted, reasonable attorney fees and court costs. If any
+     provision of this Agreement is held invalid, the offending clause
+     will be modified so as to be enforceable and, as modified, shall
+     be fully enforced, and the remainder of this Agreement will
+     continue in full force and effect. If you are downloading the
+     SOFTWARE, you represent and warrant that you are not located in
+     or under the control of any country which the export laws and
+     regulations of such country or of the United States prohibit the
+     exportation of the SOFTWARE to. Product and company names used
+     herein are trademarks or trade names of their respective
+     companies.
+
+Copyright © 2001 National Instruments Corporation. All Rights Reserved.
+
+370406A-01
+August 2001

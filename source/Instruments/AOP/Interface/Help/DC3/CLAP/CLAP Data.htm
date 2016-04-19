@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<link rel ="stylesheet" type="text/css" href="../simple.css" />
+<Title>CLAP Data</Title>
+</HEAD>
+<BODY>
+<h1>CLAP Data</h1>
+<h2>Data Display</h2>
+<p>Data from the CLAP is shipped directly to the host computer during operation and stored on the host hard drive (if the host is not operational, then no data from the CLAP will be saved).  If data is being captured, then the string produced by the CLAP will be visible on the user interface under the <b>General Tab</b> in the box labeled "CLAP" in the textbox "Data Stream".  If the server is on but there is no power, this box will display the text "TURN ON POWER"; if the server is not present or operational, then this box will contain no text.</p>
+<img src="..\General\IMG\UI\General Tab.jpg">
+<h2>Data Storage</h2>
+<p>The data is stored in the same directory as the CRDS/PAS data, C:\CRDS_PAS Data, in a sub-directory entitled CLAP.  A new file is opened each time the user interface is opened.  If a directory with the current date is not present, one will be created.  Each file for the day is stored as text and uses the naming convention <i>yyyymmdd_hhmmss.txt</i>, where the date and time correspond to the desktop date and time that the file was opened.  Each data file will contain a comma delimited string of text with the first entry corresponding to the time of the file entry and the remaining data being the string displayed in the textbox "Data Stream".  The date/time format is <i>yyyy-mm-ddThh:mm:ssZ</i>, where the time is in UTC.</p>
+<h2>Sending Data for Processing</h2>
+<p>Once data is collected, the data must be shipped to John Ogren and his group.  The data is shipped via anonymous ftp to the address<br/>
+<div style= "text-align:center">
+	<a href="ftp://ftp.cmdl.noaa.gov/incoming/aer/air">ftp://ftp.cmdl.noaa.gov/incoming/aer/air</a>
+</div>
+If necessary, the file may be compressed using zip or bzip2.  
+</BODY>
+</HTML>

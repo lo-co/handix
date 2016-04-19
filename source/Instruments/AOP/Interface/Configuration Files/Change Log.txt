@@ -1,0 +1,41 @@
+************
+May 25, 2012
+************
+HOST (version 2.1.0):
+-----
+* Diagram clean up.
+* Removed TRH duplicate for cell data in CRDS Data:Write Data.vi.
+* Added about screen with access to change log and build date.
+************
+May 31, 2012
+************
+Server (version 2.0)
+--------------------
+* Change some error handling such that it is more complete.
+* Change to Switch.lvclass so that the timer is not dependent on the clock (uses Tick Count (ms))
+	* Handle roll over with logic
+************
+May 31, 2012
+************
+Server (version 2.0)
+--------------------
+* Changed logic in Get Elapsed Time.vi to compare lasCtl shared variable value of switch rather
+  than looking for the max elapsed time change.
+* Added value to cPAS Data.lvclass to store second thermistor value
+*************
+June 17, 2012
+*************
+User Interface
+--------------
+* Add Tsp to PAS and CRDS files.
+* DC power added to General Tab.
+*************
+June 20 2012
+*************
+User Interface
+--------------
+* Prevent user from starting CRD flows if there is no purge flow.
+------
+Server
+------
+* Added code to stop flows for CRD if the purge flow is 0 and the setpoints are > 0 for the other channels.

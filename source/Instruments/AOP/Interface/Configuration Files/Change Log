@@ -1,0 +1,7 @@
+************
+May 25, 2012
+************
+HOST:
+-----
+* Diagram clean up.
+* Removed TRH duplicate for cell data in CRDS Data:Write Data.vi.

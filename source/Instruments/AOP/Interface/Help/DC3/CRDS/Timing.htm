@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<link rel ="stylesheet" type="text/css" href="../simple.css" />
+<Title>Timing</Title>
+</HEAD>
+<BODY>
+<h1>Signal Timing</h1>
+<p>Several of the signals are timing dependent.  In order to simplify the analysis of the signals obtained from the PMTs on the CRDS and thereby reduce the CPU load, only those portions of the signals that are possible valid signal are retirieved.  This means that we attempt to avoid retrieval of any signal during the period that the blue and red lasers are ringing up.  In order to achieve this, we must somehow tie the timing of the pulsed laser with those of the diodes as well as with the PMT analog input.</p>
+<h2>Laser Output</h2>
+<p>Since the diode lasers require time to ring up, the whole process is kicked off by the signal that modulates the diode output.  In the AOP instrument, the diodes are modulated using a single counter output (the use of a counter was found necessary because TTL signals produced by NI products had a significant rise time that prevented out ability to deterministically fire the lasers).  On the first ringup, the YAG waits for the falling edge of the diode counter out signal. When this falling edge occurs, the YAG counter fires.  The laser control for the YAG looks for the rising edge of this output and fires when that occurs.  At this point, the lasers fire at a predetermined rate (1 kHz) and the signals themselves are no longer directly tied to each other.</p>
+<h2>Collecting PMT Input</h2>
+<p>Although the YAG requires no ringup, the counter output associated with the YAG still has a definite duty cycle.  This duty cycle is used to gate the signal of the analog input on the PMTs and is adjustable through the user interface (the control labeled "Duty Cycle (%)" under the <b>CRDS Controls</b> tab in the box labeled "Laser Controls"; see figure below).  </p>
+<img src="IMG\CRDS_UI.jpg" vspace = "5"/>
+<p>While the laser output is produced on one card (the housekeeping card), the PMT input is collected on another (the high speed S-series).  To use the YAG counter output as a gating signal, the output signal is internally routed to the Ctr0_InternalOutput signal on the housekeeping card and connected to the corresponding Ctr0_InternalOutput on the high speed card through the PXI backplane trigger lines (PXI_Trig0).  In the software, this signal is used to gate the second counter (Ctr1) on the high speed card - when the signal is high the second counter runs at 2.5 MHz while when it is low the counter is "paused".  This counter signal is then used to clock acquisition on the 8 channels of the high speed card; every time the counter signal rises, a data point is acquired.  All of this is shown in the timing diagram below.</p>
+<img src="IMG\Timing.jpg" vspace = "5"/>
+
+</BODY>
+</HTML>

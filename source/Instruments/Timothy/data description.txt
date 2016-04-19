@@ -1,0 +1,14 @@
+time since january 1 1904
+tau - raw ringdown time constant calculated from the mean of 1000 retrieved ringdowns
+tau0corr - aerosol free tau corrected for pressure
+ext - extinction based off of average corrected tau's and tau0's
+extcorr - extinction corrected for dilution 
+stddevtau standard deviation of the mean taus
+etau - error in tau calculation (not used in opCRD)
+taucorr - tau corrected for pressure
+tau0 - aerosol free tau
+max - average max value in the ring down
+RH - vaisala RH
+T - vaisala Temperature
+u - anemometer voltage (0-5 V)
+average ringdown values - individual ringdown values (represented as 16 bit integer).
