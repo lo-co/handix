@@ -462,10 +462,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Servo Switch.lvclass" Type="LVClass" URL="../Switch/Servo Switch.lvclass"/>
 			<Item Name="Switch.lvclass" Type="LVClass" URL="../../../Reusable/Switch/Switch.lvclass"/>
 		</Item>
-		<Item Name="Airmar" Type="Folder">
-			<Item Name="Airmar Data.lvclass" Type="LVClass" URL="../../../Devices/Airmar/Data/Airmar Data.lvclass"/>
-			<Item Name="Airmar WS.lvclass" Type="LVClass" URL="../../../Devices/Airmar/Airmar WS.lvclass"/>
-		</Item>
 		<Item Name="Files" Type="Folder">
 			<Item Name="File Observer.lvclass" Type="LVClass" URL="../../../Reusable/File IO/Class/File Observer.lvclass"/>
 			<Item Name="File Session.lvclass" Type="LVClass" URL="../../../Reusable/Session APIs/File Access/Base/File Session.lvclass"/>
@@ -486,7 +482,6 @@ AddOutputFilter chunkFilter
 		<Item Name="Configuration" Type="Folder">
 			<Item Name="opCRD Cfg.ini" Type="Document" URL="../Documentation/opCRD Cfg.ini"/>
 		</Item>
-		<Item Name="Nephelometer.lvclass" Type="LVClass" URL="../../../Devices/Nephelometer/Nephelometer.lvclass"/>
 		<Item Name="SV Server.lvlib" Type="Library" URL="../SV Server.lvlib"/>
 		<Item Name="Test Servo v2.vi" Type="VI" URL="../Test/Test Servo v2.vi"/>
 		<Item Name="Chassis" Type="sbRIO Chassis">
@@ -1874,7 +1869,6 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="Test Time Sync.vi" Type="VI" URL="../Test/Test Time Sync.vi"/>
-		<Item Name="Neph File Obs.lvclass" Type="LVClass" URL="../../../Devices/Nephelometer/Neph File Observer/Neph File Obs.lvclass"/>
 		<Item Name="Session - Root.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/_Session Fwk/Session - Root.lvclass"/>
 		<Item Name="Find Discontinuity.vi" Type="VI" URL="../Find Discontinuity.vi"/>
 		<Item Name="System Log.lvclass" Type="LVClass" URL="../../../Reusable/Session Log/System Log.lvclass"/>
@@ -1996,6 +1990,10 @@ AddOutputFilter chunkFilter
 			<Item Name="Release Session.vi" Type="VI" URL="../../../Reusable/Session APIs/Serial/Public/Release Session.vi"/>
 			<Item Name="FPGAServerwLRS.lvbitx" Type="Document" URL="../FPGA Bitfiles/FPGAServerwLRS.lvbitx"/>
 			<Item Name="P.lvclass" Type="LVClass" URL="../../../Devices/Alicat/Session Based/Data/P/P.lvclass"/>
+			<Item Name="Neph File Obs.lvclass" Type="LVClass" URL="../../../Devices/Nephelometer/Neph File Observer/Neph File Obs.lvclass"/>
+			<Item Name="Nephelometer.lvclass" Type="LVClass" URL="../../../Devices/Nephelometer/Nephelometer.lvclass"/>
+			<Item Name="Airmar Data.lvclass" Type="LVClass" URL="../../../Devices/Airmar/Data/Airmar Data.lvclass"/>
+			<Item Name="Airmar WS.lvclass" Type="LVClass" URL="../../../Devices/Airmar/Airmar WS.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Timothy" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
