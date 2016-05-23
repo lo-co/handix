@@ -1,0 +1,645 @@
+1: Device Clear Operation
+
+2: Device Clear Operation
+
+3: Read Operation
+Return Count: 46 bytes
+.05,3.73,1,-14,0, 28.00,05/13/2016, 13:27:31..
+
+4: Read Operation
+Return Count: 65 bytes
+0.00,     39,bug 39.05,3.76,1,-40,0, 28.00,05/13/2016, 13:27:32..
+
+5: Read Operation
+Return Count: 61 bytes
+0.00,      6,39.05,3.78,1,-31,0, 28.00,05/13/2016, 13:27:34..
+
+6: Read Operation
+Return Count: 61 bytes
+0.00,    -12,39.06,3.81,1,-45,0, 28.00,05/13/2016, 13:27:35..
+
+7: Read Operation
+Return Count: 60 bytes
+0.00,    -27,39.06,3.83,1,-9,0, 28.00,05/13/2016, 13:27:37..
+
+8: Read Operation
+Return Count: 61 bytes
+0.00,    -18,39.06,3.85,1,-47,0, 28.00,05/13/2016, 13:27:38..
+
+9: Read Operation
+Return Count: 61 bytes
+0.00,    -40,39.07,3.87,1,-40,0, 28.00,05/13/2016, 13:27:40..
+
+10: Read Operation
+Return Count: 61 bytes
+0.00,    -62,39.09,3.87,1,-37,0, 28.00,05/13/2016, 13:27:41..
+
+11: Read Operation
+Return Count: 61 bytes
+0.00,    -32,39.09,3.87,1,-36,0, 28.00,05/13/2016, 13:27:43..
+
+12: Read Operation
+Return Count: 61 bytes
+0.00,    -17,39.09,3.85,1,-44,0, 28.00,05/13/2016, 13:27:44..
+
+13: Read Operation
+Return Count: 61 bytes
+0.00,     13,39.10,3.84,1,-31,0, 28.00,05/13/2016, 13:27:46..
+
+14: Read Operation
+Return Count: 61 bytes
+0.00,     18,39.10,3.82,1,-19,0, 28.00,05/13/2016, 13:27:47..
+
+15: Read Operation
+Return Count: 61 bytes
+0.00,     12,39.10,3.79,1,-44,0, 28.00,05/13/2016, 13:27:49..
+
+16: Read Operation
+Return Count: 61 bytes
+0.00,     13,39.11,3.77,1,-32,0, 28.00,05/13/2016, 13:27:50..
+
+17: Read Operation
+Return Count: 61 bytes
+0.00,     -1,39.12,3.75,1,-33,0, 28.00,05/13/2016, 13:27:52..
+
+18: Read Operation
+Return Count: 61 bytes
+0.00,     -5,39.12,3.73,1,-32,0, 28.00,05/13/2016, 13:27:53..
+
+19: Read Operation
+Return Count: 61 bytes
+0.00,     -1,39.13,3.72,1,-33,0, 28.00,05/13/2016, 13:27:55..
+
+20: Read Operation
+Return Count: 61 bytes
+0.00,     -6,39.13,3.71,1,-32,0, 28.00,05/13/2016, 13:27:56..
+
+21: Read Operation
+Return Count: 29 bytes
+0.00,      4,39.14,3.71,1,-16
+
+22: Read Operation
+Return Count: 32 bytes
+,0, 28.00,05/13/2016, 13:27:58..
+
+23: Read Operation
+Return Count: 61 bytes
+0.00,     46,39.14,3.72,1,-26,0, 28.00,05/13/2016, 13:27:59..
+
+24: Read Operation
+Return Count: 61 bytes
+0.00,     36,39.15,3.73,1,-28,0, 28.00,05/13/2016, 13:28:01..
+
+25: Read Operation
+Return Count: 61 bytes
+0.00,     19,39.15,3.74,1,-45,0, 28.00,05/13/2016, 13:28:03..
+
+26: Read Operation
+Return Count: 61 bytes
+0.00,    -16,39.16,3.75,1,-32,0, 28.00,05/13/2016, 13:28:04..
+
+27: Read Operation
+Return Count: 61 bytes
+0.00,     -9,39.16,3.76,1,-46,0, 28.00,05/13/2016, 13:28:06..
+
+28: Read Operation
+Return Count: 61 bytes
+0.00,    -12,39.18,3.76,1,-19,0, 28.00,05/13/2016, 13:28:07..
+
+29: Read Operation
+Return Count: 61 bytes
+0.00,     -1,39.18,3.77,1,-32,0, 28.00,05/13/2016, 13:28:09..
+
+30: Read Operation
+Return Count: 61 bytes
+0.00,     -6,39.19,3.77,1,-45,0, 28.00,05/13/2016, 13:28:10..
+
+31: Read Operation
+Return Count: 61 bytes
+0.00,    -14,39.19,3.78,1,-34,0, 28.00,05/13/2016, 13:28:12..
+
+32: Read Operation
+Return Count: 61 bytes
+0.00,    -17,39.19,3.78,1,-46,0, 28.00,05/13/2016, 13:28:13..
+
+33: Read Operation
+Return Count: 61 bytes
+0.00,    -13,39.20,3.77,1,-32,0, 28.00,05/13/2016, 13:28:15..
+
+34: Read Operation
+Return Count: 61 bytes
+0.00,      0,39.20,3.76,1,-32,0, 28.00,05/13/2016, 13:28:16..
+
+35: Read Operation
+Return Count: 61 bytes
+0.00,      3,39.21,3.75,1,-20,0, 28.00,05/13/2016, 13:28:18..
+
+36: Read Operation
+Return Count: 61 bytes
+0.00,      1,39.21,3.74,1,-32,0, 28.00,05/13/2016, 13:28:19..
+
+37: Read Operation
+Return Count: 61 bytes
+0.00,      8,39.22,3.73,1,-31,0, 28.00,05/13/2016, 13:28:21..
+
+38: Read Operation
+Return Count: 61 bytes
+0.00,     12,39.22,3.73,1,-18,0, 28.00,05/13/2016, 13:28:22..
+
+39: Read Operation
+Return Count: 61 bytes
+0.00,      9,39.23,3.72,1,-31,0, 28.00,05/13/2016, 13:28:24..
+
+40: Write Operation (B\r|n)
+
+Return Count: 4 bytes
+
+41: Read Operation
+Return Count: 61 bytes
+0.00,      7,39.23,3.72,1,-43,0, 28.00,05/13/2016, 13:28:25..
+
+42: Write Operation (B\r|n)
+
+Return Count: 4 bytes
+
+43: Read Operation
+Return Count: 61 bytes
+0.00,      4,39.23,3.72,1,-31,0, 28.00,05/13/2016, 13:28:27..
+
+44: Read Operation
+Return Count: 61 bytes
+0.00,      6,39.23,3.72,1,-32,0, 28.00,05/13/2016, 13:28:28..
+
+45: Read Operation
+Return Count: 61 bytes
+0.00,     -1,39.24,3.72,1,-20,0, 28.00,05/13/2016, 13:28:30..
+
+46: Read Operation
+Return Count: 61 bytes
+0.00,    -10,39.24,3.72,1,-18,0, 28.00,05/13/2016, 13:28:31..
+
+47: Read Operation
+Return Count: 61 bytes
+0.00,     10,39.26,3.73,1,-32,0, 28.00,05/13/2016, 13:28:33..
+
+48: Write Operation (B\r|n)
+
+Return Count: 4 bytes
+
+49: Write Operation (B)
+
+Return Count: 1 bytes
+
+50: Read Operation
+Return Count: 61 bytes
+0.00,     -9,39.26,3.73,1,-19,0, 28.00,05/13/2016, 13:28:34..
+
+51: Read Operation
+Return Count: 61 bytes
+0.00,      1,39.27,3.74,1,-33,0, 28.00,05/13/2016, 13:28:36..
+
+52: Read Operation
+Return Count: 61 bytes
+0.00,    -16,39.27,3.74,1,-33,0, 28.00,05/13/2016, 13:28:38..
+
+53: Write Operation (B\n)
+
+Return Count: 2 bytes
+
+54: Read Operation
+Return Count: 61 bytes
+0.00,     -7,39.28,3.74,1,-32,0, 28.00,05/13/2016, 13:28:39..
+
+55: Read Operation
+Return Count: 61 bytes
+0.00,      3,39.28,3.75,1,-45,0, 28.00,05/13/2016, 13:28:41..
+
+56: Read Operation
+Return Count: 61 bytes
+0.00,     -1,39.29,3.75,1,-32,0, 28.00,05/13/2016, 13:28:42..
+
+57: Read Operation
+Return Count: 61 bytes
+0.00,     -5,39.29,3.76,1,-33,0, 28.00,05/13/2016, 13:28:44..
+
+58: Read Operation
+Return Count: 61 bytes
+0.00,     -9,39.30,3.76,1,-31,0, 28.00,05/13/2016, 13:28:45..
+
+59: Read Operation
+Return Count: 61 bytes
+0.00,     16,39.30,3.77,1,-29,0, 28.00,05/13/2016, 13:28:47..
+
+60: Read Operation
+Return Count: 61 bytes
+0.00,     13,39.30,3.77,1,-46,0, 28.00,05/13/2016, 13:28:48..
+
+61: Read Operation
+Return Count: 61 bytes
+0.00,    -17,39.31,3.78,1,-18,0, 28.00,05/13/2016, 13:28:50..
+
+62: Read Operation
+Return Count: 61 bytes
+0.00,     17,39.31,3.78,1,-43,0, 28.00,05/13/2016, 13:28:51..
+
+63: Read Operation
+Return Count: 61 bytes
+0.00,      3,39.32,3.79,1,-32,0, 28.00,05/13/2016, 13:28:53..
+
+64: Read Operation
+Return Count: 61 bytes
+0.00,     -1,39.32,3.79,1,-32,0, 28.00,05/13/2016, 13:28:54..
+
+65: Read Operation
+Return Count: 61 bytes
+0.00,     -4,39.33,3.79,1,-46,0, 28.00,05/13/2016, 13:28:56..
+
+66: Read Operation
+Return Count: 61 bytes
+0.00,    -19,39.33,3.78,1,-34,0, 28.00,05/13/2016, 13:28:57..
+
+67: Read Operation
+Return Count: 61 bytes
+0.00,    -13,39.33,3.77,1,-20,0, 28.00,05/13/2016, 13:28:59..
+
+68: Read Operation
+Return Count: 61 bytes
+0.00,     -1,39.35,3.77,1,-31,0, 28.00,05/13/2016, 13:29:00..
+
+69: Read Operation
+Return Count: 61 bytes
+0.00,      7,39.35,3.77,1,-31,0, 28.00,05/13/2016, 13:29:02..
+
+70: Read Operation
+Return Count: 61 bytes
+0.00,      8,39.35,3.76,1,-32,0, 28.00,05/13/2016, 13:29:03..
+
+71: Read Operation
+Return Count: 61 bytes
+0.00,     -2,39.36,3.76,1,-32,0, 28.00,05/13/2016, 13:29:05..
+
+72: Read Operation
+Return Count: 61 bytes
+0.00,     -5,39.36,3.75,1,-22,0, 28.00,05/13/2016, 13:29:06..
+
+73: Read Operation
+Return Count: 61 bytes
+0.00,    -14,39.37,3.74,1,-21,0, 28.00,05/13/2016, 13:29:08..
+
+74: Read Operation
+Return Count: 61 bytes
+0.00,     -6,39.37,3.73,1,-33,0, 28.00,05/13/2016, 13:29:09..
+
+75: Read Operation
+Return Count: 61 bytes
+0.00,     -1,39.38,3.73,1,-20,0, 28.00,05/13/2016, 13:29:11..
+
+76: Read Operation
+Return Count: 61 bytes
+0.00,      5,39.38,3.73,1,-44,0, 28.00,05/13/2016, 13:29:13..
+
+77: Read Operation
+Return Count: 61 bytes
+0.00,      7,39.39,3.73,1,-43,0, 28.00,05/13/2016, 13:29:14..
+
+78: Read Operation
+Return Count: 61 bytes
+0.00,     16,39.39,3.73,1,-17,0, 28.00,05/13/2016, 13:29:16..
+
+79: Read Operation
+Return Count: 61 bytes
+0.00,     25,39.39,3.73,1,-29,0, 28.00,05/13/2016, 13:29:17..
+
+80: Read Operation
+Return Count: 61 bytes
+0.00,     21,39.40,3.74,1,-28,0, 28.00,05/13/2016, 13:29:19..
+
+81: Read Operation
+Return Count: 61 bytes
+0.00,     24,39.40,3.75,1,-29,0, 28.00,05/13/2016, 13:29:20..
+
+82: Read Operation
+Return Count: 61 bytes
+0.00,     13,39.41,3.76,1,-31,0, 28.00,05/13/2016, 13:29:22..
+
+83: Read Operation
+Return Count: 61 bytes
+0.00,     -2,39.41,3.78,1,-43,0, 28.00,05/13/2016, 13:29:23..
+
+84: Read Operation
+Return Count: 61 bytes
+0.00,     -9,39.43,3.79,1,-22,0, 28.00,05/13/2016, 13:29:25..
+
+85: Read Operation
+Return Count: 61 bytes
+0.00,    -24,39.43,3.80,1,-34,0, 28.00,05/13/2016, 13:29:26..
+
+86: Read Operation
+Return Count: 61 bytes
+0.00,    -22,39.43,3.81,1,-21,0, 28.00,05/13/2016, 13:29:28..
+
+87: Read Operation
+Return Count: 61 bytes
+0.00,     -8,39.43,3.82,1,-33,0, 28.00,05/13/2016, 13:29:29..
+
+88: Read Operation
+Return Count: 61 bytes
+0.00,    -10,39.44,3.82,1,-18,0, 28.00,05/13/2016, 13:29:31..
+
+89: Read Operation
+Return Count: 61 bytes
+0.00,     17,39.44,3.83,1,-33,0, 28.00,05/13/2016, 13:29:32..
+
+90: Read Operation
+Return Count: 61 bytes
+0.00,     -9,39.44,3.83,1,-44,0, 28.00,05/13/2016, 13:29:34..
+
+91: Read Operation
+Return Count: 61 bytes
+0.00,     -7,39.45,3.83,1,-34,0, 28.00,05/13/2016, 13:29:35..
+
+92: Read Operation
+Return Count: 61 bytes
+0.00,    -18,39.45,3.82,1,-20,0, 28.00,05/13/2016, 13:29:37..
+
+93: Read Operation
+Return Count: 61 bytes
+0.00,      0,39.46,3.81,1,-32,0, 28.00,05/13/2016, 13:29:38..
+
+94: Read Operation
+Return Count: 61 bytes
+0.00,      5,39.46,3.80,1,-45,0, 28.00,05/13/2016, 13:29:40..
+
+95: Write Operation (B\r)
+
+Return Count: 2 bytes
+
+96: Read Operation
+Return Count: 61 bytes
+0.00,      1,39.46,3.80,1,-31,0, 28.00,05/13/2016, 13:29:41..
+
+97: Read Operation
+Return Count: 61 bytes
+0.00,     10,39.47,3.80,1,-19,0, 28.00,05/13/2016, 13:29:43..
+
+98: Read Operation
+Return Count: 61 bytes
+0.00,      6,39.47,3.80,1,-32,0, 28.00,05/13/2016, 13:29:44..
+
+99: Read Operation
+Return Count: 61 bytes
+0.00,     -5,39.47,3.80,1,-30,0, 28.00,05/13/2016, 13:29:46..
+
+100: Read Operation
+Return Count: 61 bytes
+0.00,     16,39.47,3.80,1,-32,0, 28.00,05/13/2016, 13:29:47..
+
+101: Read Operation
+Return Count: 61 bytes
+0.00,     -6,39.48,3.80,1,-33,0, 28.00,05/13/2016, 13:29:49..
+
+102: Read Operation
+Return Count: 61 bytes
+0.00,    -12,39.49,3.80,1,-31,0, 28.00,05/13/2016, 13:29:51..
+
+103: Read Operation
+Return Count: 61 bytes
+0.00,     10,39.49,3.80,1,-30,0, 28.00,05/13/2016, 13:29:52..
+
+104: Read Operation
+Return Count: 61 bytes
+0.00,     13,39.50,3.81,1,-29,0, 28.00,05/13/2016, 13:29:54..
+
+105: Read Operation
+Return Count: 61 bytes
+0.00,     15,39.50,3.82,1,-45,0, 28.00,05/13/2016, 13:29:55..
+
+106: Read Operation
+Return Count: 61 bytes
+0.00,     -8,39.50,3.82,1,-44,0, 28.00,05/13/2016, 13:29:57..
+
+107: Read Operation
+Return Count: 61 bytes
+0.00,     -2,39.52,3.83,1,-34,0, 28.00,05/13/2016, 13:29:58..
+
+108: Write Operation (B\r)
+
+Return Count: 2 bytes
+
+109: Read Operation
+Return Count: 61 bytes
+0.00,    -17,39.52,3.82,1,-29,0, 28.00,05/13/2016, 13:30:00..
+
+110: Read Operation
+Return Count: 61 bytes
+0.00,     31,39.53,3.83,1,-42,0, 28.00,05/13/2016, 13:30:01..
+
+111: Read Operation
+Return Count: 72 bytes
+0.00,     -2,bugB0,XXX.XX,39.53,3.94,2,0,1, 28.00,05/13/2016, 13:
+30:02..
+
+112: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.55,3.94,2,255,1, 28.00,05/13/2016, 13:30:03..
+
+113: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.56,4.04,2,255,1, 28.00,05/13/2016, 13:30:04..
+
+114: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.57,4.39,2,255,1, 28.00,05/13/2016, 13:30:05..
+
+115: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.58,4.78,2,255,1, 28.00,05/13/2016, 13:30:06..
+
+116: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.58,5.20,2,255,1, 28.00,05/13/2016, 13:30:07..
+
+117: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.58,5.61,2,255,1, 28.00,05/13/2016, 13:30:08..
+
+118: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.58,6.02,2,255,1, 28.00,05/13/2016, 13:30:09..
+
+119: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.58,6.44,2,255,1, 28.00,05/13/2016, 13:30:10..
+
+120: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.58,6.85,2,255,1, 28.00,05/13/2016, 13:30:11..
+
+121: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.58,7.37,2,255,1, 28.00,05/13/2016, 13:30:12..
+
+122: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.58,7.68,2,255,1, 28.00,05/13/2016, 13:30:13..
+
+123: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.60,8.43,2,255,1, 28.00,05/13/2016, 13:30:14..
+
+124: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.60,8.50,2,255,1, 28.00,05/13/2016, 13:30:15..
+
+125: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.60,8.90,2,255,1, 28.00,05/13/2016, 13:30:16..
+
+126: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.61,9.31,2,255,1, 28.00,05/13/2016, 13:30:17..
+
+127: Read Operation
+Return Count: 57 bytes
+0,XXX.XX,39.61,9.69,2,255,1, 28.00,05/13/2016, 13:30:18..
+
+128: Read Operation
+Return Count: 58 bytes
+0,XXX.XX,39.61,10.10,2,255,1, 28.00,05/13/2016, 13:30:19..
+
+129: Read Operation
+Return Count: 58 bytes
+0,XXX.XX,39.62,10.50,2,255,1, 28.00,05/13/2016, 13:30:20..
+
+130: Read Operation
+Return Count: 58 bytes
+0,XXX.XX,39.62,10.88,2,255,1, 28.00,05/13/2016, 13:30:21..
+
+131: Read Operation
+Return Count: 58 bytes
+0,XXX.XX,39.62,11.28,2,255,1, 28.00,05/13/2016, 13:30:22..
+
+132: Read Operation
+Return Count: 58 bytes
+0,XXX.XX,39.62,11.65,2,255,1, 28.00,05/13/2016, 13:30:23..
+
+133: Read Operation
+Return Count: 58 bytes
+0,XXX.XX,39.63,12.02,2,255,1, 28.00,05/13/2016, 13:30:24..
+
+134: Read Operation
+Return Count: 58 bytes
+0,XXX.XX,39.63,12.41,2,255,1, 28.00,05/13/2016, 13:30:25..
+
+135: Read Operation
+Return Count: 58 bytes
+0,XXX.XX,39.63,12.77,2,255,1, 28.00,05/13/2016, 13:30:26..
+
+136: Read Operation
+Return Count: 46 bytes
+0,XXX.XX,39.64,13.15,2,205/13/2016, 13:32:49..
+
+137: Read Operation
+Return Count: 63 bytes
+-999.99,   2277,40.00,2.18,0,31,0, 28.50,05/13/2016, 13:32:51..
+
+138: Read Operation
+Return Count: 64 bytes
+-999.99,   1904,40.01,2.89,0,-44,0, 28.50,05/13/2016, 13:32:52..
+
+139: Read Operation
+Return Count: 64 bytes
+-999.99,   1318,40.01,3.38,0,-70,0, 28.50,05/13/2016, 13:32:54..
+
+140: Read Operation
+Return Count: 64 bytes
+-999.99,    770,40.03,3.37,0,-66,0, 28.50,05/13/2016, 13:32:55..
+
+141: Read Operation
+Return Count: 64 bytes
+-999.99,    442,40.03,3.26,0,-60,0, 28.50,05/13/2016, 13:32:57..
+
+142: Read Operation
+Return Count: 64 bytes
+-999.99,    256,40.03,3.20,0,-46,0, 28.50,05/13/2016, 13:32:58..
+
+143: Read Operation
+Return Count: 64 bytes
+-999.99,    150,40.03,3.13,0,-54,0, 28.50,05/13/2016, 13:33:00..
+
+144: Read Operation
+Return Count: 64 bytes
+-999.99,     72,40.03,3.05,0,-43,0, 28.50,05/13/2016, 13:33:01..
+
+145: Read Operation
+Return Count: 64 bytes
+-999.99,     62,40.04,3.04,0,-44,0, 28.50,05/13/2016, 13:33:03..
+
+146: Read Operation
+Return Count: 64 bytes
+-999.99,     41,40.04,3.02,0,-44,0, 28.50,05/13/2016, 13:33:04..
+
+147: Read Operation
+Return Count: 64 bytes
+-999.99,     40,40.04,3.02,0,-41,0, 28.50,05/13/2016, 13:33:06..
+
+148: Read Operation
+Return Count: 64 bytes
+-999.99,     57,40.05,3.05,0,-40,0, 28.50,05/13/2016, 13:33:07..
+
+149: Read Operation
+Return Count: 64 bytes
+-999.99,     59,40.06,3.10,0,-39,0, 28.50,05/13/2016, 13:33:09..
+
+150: Read Operation
+Return Count: 64 bytes
+-999.99,     58,40.07,3.11,0,-38,0, 28.50,05/13/2016, 13:33:10..
+
+151: Write Operation (B\r)
+
+Return Count: 2 bytes
+
+152: Read Operation
+Return Count: 64 bytes
+-999.99,     52,40.07,3.08,1,-22,0, 28.50,05/13/2016, 13:33:12..
+
+153: Write Operation (B\r)
+
+Return Count: 2 bytes
+
+154: Read Operation
+Return Count: 61 bytes
+0.00,     90,40.07,3.09,1,-14,0, 28.50,05/13/2016, 13:33:13..
+
+155: Write Operation (B\r)
+
+Return Count: 2 bytes
+
+156: Read Operation
+Return Count: 61 bytes
+0.00,    129,40.08,3.12,1,-49,0, 28.50,05/13/2016, 13:33:15..
+
+157: Write Operation (B\r)
+
+Return Count: 2 bytes
+
+158: Read Operation
+Return Count: 61 bytes
+0.00,    100,40.08,3.18,1,-38,0, 28.50,05/13/2016, 13:33:16..
+
+159: Write Operation (B\r)
+
+Return Count: 2 bytes
+
+160: Read Operation
+Return Count: 61 bytes
+0.00,     -8,40.09,3.22,1,-39,0, 28.50,05/13/2016, 13:33:18..
+
+161: Write Operation (B\r)
+
+Return Count: 2 bytes
+
+162: Read Operation
+Return Count: 61 bytes
+0.00,     -5,40.09,3.26,1,-55,0, 28.50,05/13/2016, 13:33:19..
+
