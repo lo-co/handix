@@ -173,6 +173,47 @@
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
+				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
+			</Item>
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="Session - Root.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/_Session Fwk/Session - Root.lvclass"/>
+				<Item Name="Read Key (Variant)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/variantconfig/variantconfig.llb/Read Key (Variant)__ogtk.vi"/>
+				<Item Name="Set Data Name__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Set Data Name__ogtk.vi"/>
+				<Item Name="Get Variant Attributes__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Variant Attributes__ogtk.vi"/>
+				<Item Name="Variant to Header Info__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Variant to Header Info__ogtk.vi"/>
+				<Item Name="Type Descriptor Header__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor Header__ogtk.ctl"/>
+				<Item Name="Type Descriptor Enumeration__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor Enumeration__ogtk.ctl"/>
+				<Item Name="Type Descriptor__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor__ogtk.ctl"/>
+				<Item Name="Get Header from TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Header from TD__ogtk.vi"/>
+				<Item Name="Get PString__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get PString__ogtk.vi"/>
+				<Item Name="Get Last PString__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Last PString__ogtk.vi"/>
+				<Item Name="Build Error Cluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/error/error.llb/Build Error Cluster__ogtk.vi"/>
+				<Item Name="Array of VData to VCluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array of VData to VCluster__ogtk.vi"/>
+				<Item Name="Get Data Name__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Data Name__ogtk.vi"/>
+				<Item Name="Get Data Name from TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Data Name from TD__ogtk.vi"/>
+				<Item Name="Cluster to Array of VData__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Cluster to Array of VData__ogtk.vi"/>
+				<Item Name="Split Cluster TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Split Cluster TD__ogtk.vi"/>
+				<Item Name="Parse String with TDs__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Parse String with TDs__ogtk.vi"/>
+				<Item Name="Reshape 1D Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Reshape 1D Array__ogtk.vi"/>
+				<Item Name="Get Array Element TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Array Element TD__ogtk.vi"/>
+				<Item Name="Get Element TD from Array TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Element TD from Array TD__ogtk.vi"/>
+				<Item Name="Array of VData to VArray__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array of VData to VArray__ogtk.vi"/>
+				<Item Name="Get TDEnum from Data__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get TDEnum from Data__ogtk.vi"/>
+				<Item Name="Get Default Data from TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Default Data from TD__ogtk.vi"/>
+				<Item Name="Get Waveform Type Enum from TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Waveform Type Enum from TD__ogtk.vi"/>
+				<Item Name="Waveform Subtype Enum__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Waveform Subtype Enum__ogtk.ctl"/>
+				<Item Name="Get Array Element TDEnum__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Array Element TDEnum__ogtk.vi"/>
+				<Item Name="Reshape Array to 1D VArray__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Reshape Array to 1D VArray__ogtk.vi"/>
+				<Item Name="Array Size(s)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array Size(s)__ogtk.vi"/>
+				<Item Name="Strip Units__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Strip Units__ogtk.vi"/>
+				<Item Name="Set Enum String Value__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Set Enum String Value__ogtk.vi"/>
+				<Item Name="Get Strings from Enum__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Strings from Enum__ogtk.vi"/>
+				<Item Name="Get Strings from Enum TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Strings from Enum TD__ogtk.vi"/>
+				<Item Name="Encode Section and Key Names__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/variantconfig/variantconfig.llb/Encode Section and Key Names__ogtk.vi"/>
+				<Item Name="Trim Whitespace__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/Trim Whitespace__ogtk.vi"/>
+				<Item Name="Trim Whitespace (String)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/Trim Whitespace (String)__ogtk.vi"/>
+				<Item Name="Trim Whitespace (String Array)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/Trim Whitespace (String Array)__ogtk.vi"/>
 			</Item>
 			<Item Name="Base Data Class.lvlib" Type="Library" URL="../../../Reusable/Data/Base Data Class.lvlib"/>
 			<Item Name="Airmar Data.lvclass" Type="LVClass" URL="../../../Devices/Airmar/Data/Airmar Data.lvclass"/>
@@ -180,6 +221,16 @@
 			<Item Name="MC Data.lvclass" Type="LVClass" URL="../../../Devices/Alicat/Session Based/Data/MC/MC Data.lvclass"/>
 			<Item Name="M data.lvclass" Type="LVClass" URL="../../../Devices/Alicat/Session Based/Data/M/M data.lvclass"/>
 			<Item Name="LRS Sums.vi" Type="VI" URL="../FPGA/LRS/LRS Sums.vi"/>
+			<Item Name="Serial Session.lvclass" Type="LVClass" URL="../../../Reusable/Session APIs/Serial/Serial Session.lvclass"/>
+			<Item Name="Config Data.lvclass" Type="LVClass" URL="../../../Reusable/Session APIs/File Access/Config Data/Config Data.lvclass"/>
+			<Item Name="Text Device Session.lvclass" Type="LVClass" URL="../../../Reusable/Session APIs/Text Communication/Text Device Session.lvclass"/>
+			<Item Name="System Log.lvclass" Type="LVClass" URL="../../../Reusable/Session Log/System Log.lvclass"/>
+			<Item Name="CR5 Data.lvclass" Type="LVClass" URL="../../../Devices/CR5/Data/CR5 Data.lvclass"/>
+			<Item Name="CR5.lvclass" Type="LVClass" URL="../../../Devices/CR5/CR5.lvclass"/>
+			<Item Name="Read RH.vi" Type="VI" URL="../CRD/Data/Accessors/Read RH.vi"/>
+			<Item Name="Read T.vi" Type="VI" URL="../CRD/Data/Accessors/Read T.vi"/>
+			<Item Name="Read Airmar Data.vi" Type="VI" URL="../CRD/Data/Accessors/Read Airmar Data.vi"/>
+			<Item Name="Read Rotronic.vi" Type="VI" URL="../CRD/Data/Accessors/Read Rotronic.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="opCRD Installer" Type="Installer">
@@ -471,8 +522,6 @@ AddOutputFilter chunkFilter
 		<Item Name="Main VIs" Type="Folder">
 			<Item Name="opCRD Server (9636).vi" Type="VI" URL="../opCRD Server (9636).vi"/>
 			<Item Name="Main Server.vi" Type="VI" URL="../Main/Main Server.vi"/>
-			<Item Name="Nephelometer.vi" Type="VI" URL="../Main/Nephelometer.vi"/>
-			<Item Name="Airmar WS.vi" Type="VI" URL="../Main/Airmar WS.vi"/>
 		</Item>
 		<Item Name="Serial Session" Type="Folder">
 			<Item Name="Alicat Device.lvclass" Type="LVClass" URL="../../../Devices/Alicat/Session Based/Alicat Device.lvclass"/>
@@ -1990,10 +2039,9 @@ AddOutputFilter chunkFilter
 			<Item Name="Release Session.vi" Type="VI" URL="../../../Reusable/Session APIs/Serial/Public/Release Session.vi"/>
 			<Item Name="FPGAServerwLRS.lvbitx" Type="Document" URL="../FPGA Bitfiles/FPGAServerwLRS.lvbitx"/>
 			<Item Name="P.lvclass" Type="LVClass" URL="../../../Devices/Alicat/Session Based/Data/P/P.lvclass"/>
-			<Item Name="Neph File Obs.lvclass" Type="LVClass" URL="../../../Devices/Nephelometer/Neph File Observer/Neph File Obs.lvclass"/>
-			<Item Name="Nephelometer.lvclass" Type="LVClass" URL="../../../Devices/Nephelometer/Nephelometer.lvclass"/>
 			<Item Name="Airmar Data.lvclass" Type="LVClass" URL="../../../Devices/Airmar/Data/Airmar Data.lvclass"/>
-			<Item Name="Airmar WS.lvclass" Type="LVClass" URL="../../../Devices/Airmar/Airmar WS.lvclass"/>
+			<Item Name="CR5.lvclass" Type="LVClass" URL="../../../Devices/CR5/CR5.lvclass"/>
+			<Item Name="CR5 Data.lvclass" Type="LVClass" URL="../../../Devices/CR5/Data/CR5 Data.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Timothy" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
