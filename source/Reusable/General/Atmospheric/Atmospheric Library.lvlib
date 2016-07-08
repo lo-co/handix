@@ -20,7 +20,7 @@
 		<Item Name="es_mk_eq.vit" Type="VI" URL="../es_mk_eq.vit"/>
 		<Item Name="SolveMurphKoop.lvtest" Type="TestItem" URL="../SolveMurphKoop.lvtest">
 			<Property Name="utf.test.bind" Type="Str">Atmospheric Library.lvlib:SolveMurphKoop.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">23671DBC-7E2E-369E-1FF3-E64CB7E708D2</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">872FF9D5-2125-8EF1-B13D-EF0334F9DB40</Property>
 		</Item>
 		<Item Name="SolveMurphKoop.vi" Type="VI" URL="../SolveMurphKoop.vi"/>
 	</Item>

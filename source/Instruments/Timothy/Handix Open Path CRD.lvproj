@@ -153,12 +153,15 @@ AddOutputFilter chunkFilter
 			<Item Name="Config Data.lvclass" Type="LVClass" URL="../../../Reusable/Session APIs/File Access/Config Data/Config Data.lvclass"/>
 			<Item Name="File Session.lvclass" Type="LVClass" URL="../../../Reusable/Session APIs/File Access/Base/File Session.lvclass"/>
 			<Item Name="Serial Session.lvclass" Type="LVClass" URL="../../../Reusable/Session APIs/Serial/Serial Session.lvclass"/>
+			<Item Name="System Log.lvclass" Type="LVClass" URL="../../../Reusable/Session Log/System Log.lvclass"/>
 			<Item Name="Text Device Session.lvclass" Type="LVClass" URL="../../../Reusable/Session APIs/Text Communication/Text Device Session.lvclass"/>
 		</Item>
 		<Item Name="Switch" Type="Folder">
 			<Item Name="Servo Switch.lvclass" Type="LVClass" URL="../Switch/Servo Switch.lvclass"/>
 			<Item Name="Switch.lvclass" Type="LVClass" URL="../../../Reusable/Switch/Switch.lvclass"/>
 		</Item>
+		<Item Name="Atmospheric Library.lvlib" Type="Library" URL="../../../Reusable/General/Atmospheric/Atmospheric Library.lvlib"/>
+		<Item Name="Base Data Class.lvlib" Type="Library" URL="../../../Reusable/Data/Base Data Class.lvlib"/>
 		<Item Name="Chassis" Type="sbRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
@@ -1268,6 +1271,7 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="Main Server.vi" Type="VI" URL="../Main/Main Server.vi"/>
+		<Item Name="Math Utilities.lvlib" Type="Library" URL="../../../Reusable/General/Math Utilities.lvlib"/>
 		<Item Name="opCRD Cfg.ini" Type="Document" URL="../Documentation/opCRD Cfg.ini"/>
 		<Item Name="SV Server.lvlib" Type="Library" URL="../SV Server.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -1358,26 +1362,20 @@ AddOutputFilter chunkFilter
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Atmospheric Library.lvlib" Type="Library" URL="../../../Reusable/General/Atmospheric/Atmospheric Library.lvlib"/>
-			<Item Name="Base Data Class.lvlib" Type="Library" URL="../../../Reusable/Data/Base Data Class.lvlib"/>
 			<Item Name="calData.ctl" Type="VI" URL="../../../Reusable/CRDS/Data/Cell/calData.ctl"/>
 			<Item Name="Command.lvclass" Type="LVClass" URL="../../../Reusable/Commands/Command.lvclass"/>
 			<Item Name="Exponential Fit Library.lvlib" Type="Library" URL="../../../Reusable/General/Math/Fit Exponential Class/Exponential Fit Library.lvlib"/>
 			<Item Name="extparam.ctl" Type="VI" URL="../../../Reusable/CRDS/Data/Cell/extparam.ctl"/>
-			<Item Name="File Observer.lvclass" Type="LVClass" URL="../../../Reusable/File IO/Class/File Observer.lvclass"/>
 			<Item Name="Find Discontinuity.vi" Type="VI" URL="../Find Discontinuity.vi"/>
 			<Item Name="Get Tau Method.ctl" Type="VI" URL="../../../Reusable/CRDS/Cell/Get Tau Method.ctl"/>
 			<Item Name="Handix_OpenPathCRD.lvbitx" Type="Document" URL="../FPGA Bitfiles/Handix_OpenPathCRD.lvbitx"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="Math Utilities.lvlib" Type="Library" URL="../../../Reusable/General/Math Utilities.lvlib"/>
 			<Item Name="Mean-SGL.vi" Type="VI" URL="../../../Reusable/General/Math/Mean-SGL.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Observer.lvclass" Type="LVClass" URL="../../../Reusable/Observer/Observer.lvclass"/>
 			<Item Name="Rate.ctl" Type="VI" URL="../FPGA/Rate.ctl"/>
 			<Item Name="Retrieve Numeric String.vi" Type="VI" URL="../../../Reusable/General/String Utilities/Retrieve Numeric String.vi"/>
-			<Item Name="System Log.lvclass" Type="LVClass" URL="../../../Reusable/Session Log/System Log.lvclass"/>
 			<Item Name="Temperature.lvlib" Type="Library" URL="../../../Reusable/General/Temperature/Temperature.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
