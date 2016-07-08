@@ -1,0 +1,29 @@
+## Buck CR5
+
+Working with the Buck chilled mirror and there are several issues of note.  
+
+* If the mirror is not attached (i.e. we are just hooked up to the board) we will immetiately jump into diagnostic mode
+* For some reason the ``Scan from String`` function is not returning properly from the ``Get Data`` call on the ``CR5`` object.
+* CR5 response is *slooooooowwwwww*
+* ``Tamb`` is actually ``Tchamber`` - that is the temperature in the actual sample volume...  
+
+### Flags
+
+#### Mirror
+
+The mirror flag that is returned indicates one of two values: 0 (clean) and 1 (not clean)
+
+#### Flag
+
+The ``Flag`` property indicates three possible values:
+
+* 0 - not settled
+* 1- settled on dewpoint
+* 2 - Balance being executed
+
+### Configuration
+
+The CR5 requires 9600 8-N-1 for communication.  Communication is terminated on a carriage return.  The file for configuration can currently be found at ``../Timothy/Documentation/opCRD Cfg.ini``.
+The balance cycle takes about 30 s it seems.
+
+
