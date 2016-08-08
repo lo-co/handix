@@ -30,12 +30,14 @@
 	<Property Name="varPersistentID:{80A7B00D-90DF-477A-8DCC-19FC539D9DAF}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Delay Time</Property>
 	<Property Name="varPersistentID:{80ECE2BF-64F0-4824-8E3C-7BA67CA9CBB0}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Servo/autoZero</Property>
 	<Property Name="varPersistentID:{81EDA4CA-3211-4359-B630-70664F900908}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Heated Line/Tsp</Property>
+	<Property Name="varPersistentID:{86B1E188-8A26-4576-B251-B8510CFF8E0C}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Heated Line/OverrideDeltaT</Property>
 	<Property Name="varPersistentID:{8BC9DA9C-FF8B-42B8-8946-FBA272AE3C3E}" Type="Ref">/OpenPathCRD/SV Server.lvlib/RD Data Stream</Property>
 	<Property Name="varPersistentID:{8DC472E0-831F-475C-A348-788AEF0188D5}" Type="Ref">/OpenPathCRD/SV Server.lvlib/File/Write?</Property>
 	<Property Name="varPersistentID:{8EFC1893-EC51-4D09-BEC9-A61FD0A4288A}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Servo/Position Period/ServoLowTime</Property>
 	<Property Name="varPersistentID:{97C5E290-1438-4DB5-BC8F-A4D27DB176C4}" Type="Ref">/OpenPathCRD/SV Server.lvlib/tdataw</Property>
 	<Property Name="varPersistentID:{AAFD3ABC-6E8C-4C6F-9F7F-F151E27F317E}" Type="Ref">/OpenPathCRD/SV Server.lvlib/File/WriteTau</Property>
 	<Property Name="varPersistentID:{AD150B44-3490-4379-B3C2-66B37CAD68D2}" Type="Ref">/OpenPathCRD/SV Server.lvlib/SheathPos</Property>
+	<Property Name="varPersistentID:{B4904EF3-16AD-4D29-948D-4BE46B990597}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Heated Line/deltaTemp</Property>
 	<Property Name="varPersistentID:{C16A00FF-2ECB-4C61-8F39-5BFA49698DC0}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Heated Line/Heater Input</Property>
 	<Property Name="varPersistentID:{CD374ED0-C856-4432-A42C-8D85151125E4}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Servo/Last Zero</Property>
 	<Property Name="varPersistentID:{F64EA60E-52A3-40D5-92B6-987F6DAA3726}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Servo/Pulse Width/ServoTrueWidth</Property>
@@ -94,7 +96,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{DCD25268-64E8-4D84-9D46-47BB3C8DC9AD}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Handix opCRDS.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/DevBuild/Handix opCRDS.exe</Property>
@@ -1472,7 +1474,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{35E6F666-1D8A-4D9F-A90A-7562385BF00A}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
