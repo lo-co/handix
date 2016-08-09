@@ -35,6 +35,16 @@
 			<Property Name="type" Type="Str">Network</Property>
 			<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"5!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
+		<Item Name="Primary Connected" Type="Variable">
+			<Property Name="Description:Description" Type="Str">Use this to connect the primary volume flow rate with the plenum rate.</Property>
+			<Property Name="featurePacks" Type="Str">Description,Network</Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">True</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"5!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+		</Item>
 		<Item Name="Primary Vol Fan" Type="Variable">
 			<Property Name="Description:Description" Type="Str">The primary volume fan is a 0-5 V signal that controls a PWM output.</Property>
 			<Property Name="featurePacks" Type="Str">Description,Network</Property>
