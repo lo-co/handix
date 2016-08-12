@@ -20,7 +20,9 @@ Uses the thermistor equation for [Steinhart-Hart](https://en.wikipedia.org/wiki/
 
 ``1/T = A + B * ln(R) + C * ln(R)^3 + D * ln(R)^5``
 
-where ``T`` is the temperature in Kelvin and ``R`` is the resistance in Ohms.  The coefficients are the defined in the table below for thermistors with the given serial numbers:
+where ``T`` is the temperature in Kelvin and ``R`` is the resistance in Ohms.  The thermistor resistance is acquired from the data acquisition system via a voltage.  
+
+The coefficients are the defined in the table below for thermistors with the given serial numbers:
 
 Thermistor |        A       |       B        |        C       |       D      
 ---------- | -------------- | -------------- | -------------- | --------------
