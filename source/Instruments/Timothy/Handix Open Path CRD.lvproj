@@ -97,7 +97,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{DCD25268-64E8-4D84-9D46-47BB3C8DC9AD}</Property>
-				<Property Name="Bld_version.build" Type="Int">9</Property>
+				<Property Name="Bld_version.build" Type="Int">10</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Handix opCRDS.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/DevBuild/Handix opCRDS.exe</Property>
@@ -125,7 +125,7 @@
 	</Item>
 	<Item Name="OpenPathCRD" Type="RT Single-Board RIO">
 		<Property Name="alias.name" Type="Str">OpenPathCRD</Property>
-		<Property Name="alias.value" Type="Str">192.168.0.21</Property>
+		<Property Name="alias.value" Type="Str">192.168.1.30</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;DeviceCode,77D4;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">77D4</Property>
 		<Property Name="DisableAutoDeployVariables" Type="Bool">true</Property>
@@ -1475,7 +1475,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{35E6F666-1D8A-4D9F-A90A-7562385BF00A}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">16</Property>
+				<Property Name="Bld_version.build" Type="Int">18</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
