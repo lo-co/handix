@@ -1343,9 +1343,12 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="File Utilities.lvlib" Type="Library" URL="../../../Reusable/File IO/File Utilities.lvlib"/>
+		<Item Name="Initialize Network.vi" Type="VI" URL="../Main/Initialize Network.vi"/>
 		<Item Name="Main Server.vi" Type="VI" URL="../Main/Main Server.vi"/>
 		<Item Name="Math Utilities.lvlib" Type="Library" URL="../../../Reusable/General/Math Utilities.lvlib"/>
 		<Item Name="opCRD Cfg.ini" Type="Document" URL="../Documentation/opCRD Cfg.ini"/>
+		<Item Name="Run Instrument.vi" Type="VI" URL="../Main/Run Instrument.vi"/>
+		<Item Name="Save Data.vi" Type="VI" URL="../Main/Save Data.vi"/>
 		<Item Name="SV Server.lvlib" Type="Library" URL="../SV Server.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">

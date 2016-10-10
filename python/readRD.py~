@@ -1,0 +1,29 @@
+import struct
+
+fileName = "c:/Users/Matt/Desktop/RD_20160811_172824.bin"
+
+f = open(fileName, 'rb')
+index = 0
+
+while True:
+  
+  # LabVIEW time
+  t = f.read(8)
+
+  # Check for eof
+  if not t:
+    print("Index = ",index)
+    break
+
+  # First index of array - number of shots
+  i = struct.unpack('i', f.read(4))[0] 
+  print(i)
+  # Second index of array - number of points per shot
+  j = struct.unpack('i', f.read(4))[0]
+
+  # Read the number of bytes associated with the array
+  adata = f.read(i*j*2)
+  
+  index += 1
+
+
