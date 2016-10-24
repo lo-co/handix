@@ -39,7 +39,13 @@ The user will be prompted for the password which is given above.
 
 ## Deploying the Project
 
-In order to deploy the project onto the target, 
+The target can be run in one of two manners: as a development project in the LabVIEW environment or as a run-time executable.  If the developer wishes to run in the development environment, they should 
+
+1. Right click on target ``OpenPathCRD``
+2. Select connect (as in the figure below)
+3. Open the VI ``Main Server`` and click the ``Run`` button.
+
+
 
 ## Thermistors
 
