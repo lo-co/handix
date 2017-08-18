@@ -7,9 +7,11 @@
 	<Property Name="varPersistentID:{11C83AF6-3D78-40D9-8728-1796B5CAF855}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Heated Line/Heater Power</Property>
 	<Property Name="varPersistentID:{1FA3EDBA-4063-449D-A1BE-B1BF7C64EFB5}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Num2Coadd</Property>
 	<Property Name="varPersistentID:{26B17B32-12EC-4F38-9A5E-387C4E6A2CFB}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Fans/Fan Bank 2</Property>
+	<Property Name="varPersistentID:{308EE5EF-7AEA-42DC-AB62-67FB3392DD7C}" Type="Ref">/OpenPathCRD/SV Server.lvlib/max-pts</Property>
 	<Property Name="varPersistentID:{342E1D62-B869-48F1-BB8B-4D0DDE9A9B46}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Fans/Fan Bank 3</Property>
 	<Property Name="varPersistentID:{3759C0D0-CAF5-425A-9D1B-A6A8A2596BBB}" Type="Ref">/OpenPathCRD/SV Server.lvlib/Fans/Fan Bank 4</Property>
 	<Property Name="varPersistentID:{4049DF24-2ED3-4928-8B22-F53B1C6FBCB2}" Type="Ref">/OpenPathCRD/SV Server.lvlib/File/New File</Property>
+	<Property Name="varPersistentID:{4576F8F2-26BA-45B4-8A42-26E73F511725}" Type="Ref">/OpenPathCRD/SV Server.lvlib/auto-adjust</Property>
 	<Property Name="varPersistentID:{479BAA85-7F7C-4343-BAFE-230EBD337CC7}" Type="Ref">/OpenPathCRD/SV Server.lvlib/System/Time</Property>
 	<Property Name="varPersistentID:{47B7F04D-27CC-4064-AF5D-95AF20F49447}" Type="Ref">/OpenPathCRD/SV Server.lvlib/File/Write Ringdowns</Property>
 	<Property Name="varPersistentID:{47F71D8F-ADCB-48EF-B0BD-3C4C2B8C5301}" Type="Ref">/OpenPathCRD/SV Server.lvlib/nextSwitch</Property>
@@ -87,7 +89,6 @@
 				<Property Name="App_INI_GUID" Type="Str">{A798505B-13F1-4870-9B2A-2B5874758513}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_winsec.description" Type="Str">http://www.HP.com</Property>
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{39CE83C9-18EC-4BEB-9FF4-4DEBB4CAF85E}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">DevBuild</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
@@ -97,7 +98,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{DCD25268-64E8-4D84-9D46-47BB3C8DC9AD}</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Handix opCRDS.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/DevBuild/Handix opCRDS.exe</Property>
@@ -106,15 +107,15 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/DevBuild/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{DB248287-C2A9-45FB-A2E3-03290637F68C}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{B57D9F2E-7EDA-4688-A46B-27FF43B4E578}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Handix UI.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
-				<Property Name="TgtF_companyName" Type="Str">HP</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">DevBuild</Property>
+				<Property Name="TgtF_companyName" Type="Str">Handix Scientific</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">OPCRD client side executable.</Property>
 				<Property Name="TgtF_internalName" Type="Str">DevBuild</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2016 HP</Property>
 				<Property Name="TgtF_productName" Type="Str">DevBuild</Property>
@@ -178,7 +179,7 @@
 				<Property Name="INST_buildSpecName" Type="Str">Handix Installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{512D41C8-4BDA-4B5B-947C-E27EFADD2DF0}</Property>
 				<Property Name="INST_productName" Type="Str">Handix Open Path CRD</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.0</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.1</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">15008029</Property>
 				<Property Name="MSI_autoselectDrivers" Type="Bool">true</Property>
@@ -1545,6 +1546,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
+				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
@@ -1571,6 +1573,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
@@ -1661,7 +1664,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{DAF457DB-20C6-4CDC-98C4-DEB5CF6AC326}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">19</Property>
+				<Property Name="Bld_version.build" Type="Int">20</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
